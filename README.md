@@ -12,5 +12,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
+
 ### 📊 My GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sara-nya11y&show_icons=true&theme=tokyonight" alt="Sara-nya11y" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sara-nya11y&show_icons=true&theme=tokyonight" />
+</p>

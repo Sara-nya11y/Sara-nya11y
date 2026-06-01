@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saranya</h1>
+<h3 align="center">Python Learner | Fresher | Future Developer</h3>
 
-<!--
-**Sara-nya11y/Sara-nya11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python, Loops, Git & GitHub**
+- 👨‍💻 All of my projects are available at [python-practice](https://github.com/Sara-nya11y/python-practice)
+- 📫 How to reach me: veerankisaranya656@gmail.com
+- ⚡ Fun fact: **I love turning logic into code**
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools:
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sara-nya11y&show_icons=true&theme=tokyonight" alt="Sara-nya11y" /></p>

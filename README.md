@@ -16,10 +16,7 @@
 
 - 🔭 **Currently Working On:** Python Projects 
 - 🌱 **Learning:** Git, GitHub, Web Development  
-- 👨‍💻 **All Repos:** [Click here to see](https://github.com/sara-nya11y?tab=repositories)
+- 👨‍💻 **All My Repos:** [github.com/sara-nya11y?tab=repositories](https://github.com/sara-nya11y?tab=repositories)
 - 💡 **Skills:** Python | HTML | CSS | Git
 - ⚡ **Fun Fact:** Started coding recently and loving it!
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sara-nya11y&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+- 📈 **GitHub Journey:** Building projects daily

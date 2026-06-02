@@ -14,4 +14,9 @@
 
 
 ### 📊 My GitHub Stats:
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-nya11y&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sara-nya11y&show_icons=true&theme=radical&hide_border=true" alt="Sara's Github stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-nya11y&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>

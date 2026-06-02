@@ -14,6 +14,4 @@
 
 
 ### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sara-nya11y&show_icons=true&theme=tokyonight" />
-</p>
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-nya11y&show_icons=true&theme=radical)

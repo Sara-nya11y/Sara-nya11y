@@ -14,8 +14,12 @@
 
 ### 📊 My GitHub Stats:
 
+- 🔭 **Currently Working On:** Python Projects 
+- 🌱 **Learning:** Git, GitHub, Web Development  
+- 👨‍💻 **All Repos:** [Click here to see](https://github.com/sara-nya11y?tab=repositories)
+- 💡 **Skills:** Python | HTML | CSS | Git
+- ⚡ **Fun Fact:** Started coding recently and loving it!
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sara-nya11y&theme=radical" alt="Sara's GitHub Stats" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sara-nya11y&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=sara-nya11y&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>

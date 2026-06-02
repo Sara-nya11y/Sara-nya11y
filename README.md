@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saranya</h1>
 <h3 align="center">Python Learner | Fresher | Future Developer</h3>
 
-- 🌱 I’m currently learning **Python, Loops, Git & GitHub**
+- 🌱 I’m currently learning **Python,Git & GitHub**
 - 👨‍💻 All of my projects are available at [python-practice](https://github.com/Sara-nya11y/python-practice)
 - 📫 How to reach me: veerankisaranya656@gmail.com
 - ⚡ Fun fact: **I love turning logic into code**

@@ -19,4 +19,4 @@
 - 👨‍💻 **All My Repos:** [github.com/sara-nya11y?tab=repositories](https://github.com/sara-nya11y?tab=repositories)
 - 💡 **Skills:** Python | HTML | CSS | Git
 - ⚡ **Fun Fact:** Started coding recently and loving it!
-- 📈 **GitHub Journey:** Building projects daily
+- 📈 **GitHub Journey:** Building projects 
